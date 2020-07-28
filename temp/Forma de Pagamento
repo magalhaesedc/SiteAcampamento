@@ -1,0 +1,39 @@
+Forma de Pagamento
+
+1 ticket
+3 credit_card
+4 debit_card
+6 account_money
+
+1 Boleto: Boleto/Lotérica
+3 Cartão de Crédito: pagamento com cartão de crédito.
+4 Cartão de Débito: pagamento com cartão de débito.
+6 Saldo Mercado Pago : Pagamento com saldo da conta do MP
+
+
+
+Status do Pagamento
+
+
+1 pending ok
+2 approved
+3 authorized
+4 in_process
+5 in_mediation
+6 rejected
+7 cancelled
+8 refunded
+9 charged_back
+
+1 PENDENTE O usuário ainda não concluiu o processo de pagamento.
+2 APROVADO O pagamento foi aprovado e credenciado.
+3 AUTORIZADO O pagamento foi autorizado, mas ainda não foi capturado.
+4 EM ANÁLISE O pagamento está sendo revisado.
+5 EM MEDIAÇÃO Os usuários iniciaram uma disputa.
+6 REJEITADO O pagamento foi rejeitado. O usuário pode tentar novamente o pagamento.
+7 CANCELADO O pagamento foi cancelado por uma das partes ou porque o prazo para pagamento expirou
+8 DEVOLVIDO O pagamento foi reembolsado ao usuário.
+9 ESTORNADO Foi efetuado um estorno no cartão de crédito do comprador.
+
+
+
